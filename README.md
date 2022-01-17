@@ -1,5 +1,7 @@
-[![stats](https://github-readme-stats.vercel.app/api?username=kithf&show_icons=true&theme=nord&count_private=true&show_icons=true&hide_border=true)](https://github.com/kithf)
+<p align="center">
+  <img alt="kithf stats" src="https://github-readme-stats.vercel.app/api?username=kithf&show_icons=true&theme=bear&count_private=true&show_icons=true&hide_border=true" />
+  <br />
+  <!--<img alt="kithf top languages" src="" />-->
+  <img alt="kithf top languages" src="https://github-readme-stats.vercel.app/api/wakatime?username=kithf&theme=bear&show_icons=true&hide_border=true&layout=compact&custom_title=Top%2010%20Languages&langs_count=10" />
+</p>
 
-[![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kithf&theme=nord&hide_border=true)](https://github.com/kithf)
-
-[![wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=kithf&theme=nord&show_icons=true&hide_border=true&layout=compact)](https://github.com/kithf)
